@@ -2,19 +2,15 @@
 
 This is React Matrix Rain Clock. A React Javascript implementation of Matrix Rain.
 
-To try this out locally, you need NodeJS, NPM and Yarn installed in your computer. Once you have NodeJS, NPM and Yarn installed, simply download or clone by executing the below code:
+To try this out locally, you need NodeJS, NPM and Yarn installed in your computer. Once you have NodeJS, NPM and Yarn installed, simply download or clone by executing the below code using the command line
 
 <pre>git clone git@github.com:jbernadas/react_matrix_rain_clock.git</pre>
 
-Once you have downloaded or cloned the repo, 
+Once you have downloaded or cloned the repo, in command line cd into the folder that was just created
 
-<pre>cd</pre> 
+<pre>cd react_matrix_rain_clock</pre> 
 
-into the 
-
-<pre>react_matrix_rain_clock</pre>
-
-folder that was just created. Issue the following command line 
+Issue the following in command line afterwards 
 
 <pre>yarn install</pre>
 
