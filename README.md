@@ -20,4 +20,6 @@ then start her up with
 
 It will take a while, so grab a cup of your favorite beverage.
 
-This can appear like a screensaver by making the web browser full-screen. To do this click the 'F11' key on keyboard and then refresh with 'F5' key. Enjoy.
+This can appear like a screensaver by making the web browser full-screen. To do this click the 'F11' key on keyboard and then refresh with 'F5' key. 
+
+Make it rain.
