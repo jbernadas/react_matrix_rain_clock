@@ -1,16 +1,28 @@
 {
-  "name": "hello-world",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "react": "^16.5.1",
-    "react-dom": "^16.5.1",
-    "react-scripts": "1.1.5"
-  },
+  "name": "react_matrix_rain_clock",
+  "version": "1.0.0",
+  "description": "A React Javascript app that shows Matrix rain background and a clock foreground.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
-  }
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbernadas/react_matrix_rain_clock.git"
+  },
+  "keywords": [
+    "matrix",
+    "rain",
+    "react",
+    "clock",
+    "javascript"
+  ],
+  "author": "Joseph Bernadas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbernadas/react_matrix_rain_clock/issues"
+  },
+  "homepage": "https://github.com/jbernadas/react_matrix_rain_clock#readme"
 }
