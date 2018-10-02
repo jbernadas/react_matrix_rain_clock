@@ -1,6 +1,6 @@
 # react_matrix_rain_clock
 
-This is React Matrix Rain Clock. A React Javascript implementation of Matrix Rain.
+This is React Matrix Rain Clock, a React Javascript implementation of Matrix Rain.
 
 To try this out locally, you need NodeJS, NPM and Yarn installed in your computer. Once you have NodeJS, NPM and Yarn installed, simply download or clone this repo
 
