@@ -1,1 +1,1 @@
-This is React Matrix Clock. The matrix rain was originally based on the vanilla Javascript code by Ebram Marzouk and converted into ReactJS by me. This has served as a practice project to learn about ReactJS.
+This is React Matrix Rain Clock. Matrix rain was originally based on the vanilla Javascript code by Ebram Marzouk and I converted into ReactJS and added a clock in the middle. I use this sort of like a screensaver if you click the F11 key on keyboard and refresh the browser it becomes full screen.
