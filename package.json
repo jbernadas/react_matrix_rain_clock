@@ -31,5 +31,11 @@
   "bugs": {
     "url": "https://github.com/jbernadas/react_matrix_rain_clock/issues"
   },
-  "homepage": "https://github.com/jbernadas/react_matrix_rain_clock#readme"
+  "homepage": "https://github.com/jbernadas/react_matrix_rain_clock#readme",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
