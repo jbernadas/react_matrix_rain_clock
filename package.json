@@ -4,6 +4,7 @@
   "description": "A React Javascript app that shows Matrix rain background and a clock foreground.",
   "main": "index.js",
   "dependencies": {
+    "json-schema": "^0.4.0",
     "shell-quote": "1.7.3"
   },
   "devDependencies": {
