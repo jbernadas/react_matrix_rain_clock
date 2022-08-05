@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "A React Javascript app that shows Matrix rain background and a clock foreground.",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "shell-quote": "1.7.3"
+  },
   "devDependencies": {
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
