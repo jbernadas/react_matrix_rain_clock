@@ -17,7 +17,8 @@ class Matrix extends React.Component {
     
         //japanese characters - taken from the unicode charset
         let japanese = "先日あーりー様のブログをしてからすっかりファンになった「はるさこう」でございていました５月半ばにひいたをこじらせて、なかなか治らず入の2は3痰の絡みと込みが酷くてしたり、かかりつけのでの吸引4ネブライザと言いますの方がうことが多いですねをしたりして6も7化8す9る0ばかりでにるべくの呼を介されて";
-        let matrix = japanese;
+        let ukrainian = "1234567890АаБбВвГгҐґДдЕеЄєЖжЗзИиІіЇїЙйКкЛлМмНнОоПпРрСсТтУуФфХхЦцЧчШшЩщЬьЮюЯя"
+        let matrix = ukrainian;
         //converting the string into an array of single characters
         matrix = matrix.split("");
     
