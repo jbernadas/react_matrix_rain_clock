@@ -10,6 +10,11 @@ Once you have downloaded or cloned the repo, in command line cd into the folder 
 
 <pre>cd react_matrix_rain_clock</pre> 
 
+Make sure you are using Node version 10.24.1. If you have NVM installed, it's easy to switch Node versions by doing the following:
+
+<pre>nvm install v10.24.1</pre>
+<pre>nvm use v10.24.1</pre>
+
 Inside the folder issue the following in command line to install dependencies
 
 <pre>yarn install</pre>
